@@ -5,8 +5,8 @@
 ## I'm an Entreprenuer and a developer.
 
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content devs
+- 🌱 I’m currently learning everything 🤣 but mostly machine learning
+- 👯 I’m looking to collaborate with other devs
 - 🥅 2022-2023 Goals: Build, Build and Build!
 - ⚡ Fun fact: I love anime
 
