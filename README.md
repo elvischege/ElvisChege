@@ -2,13 +2,13 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/elvisnchege?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Felvischege&screen_name=elvisnchege)
 
-## I'm an Entreprenuer and a developer.
+## I'm an Full-Stack Dev and an Entrepreneur.
 
 
 - 🌱 I’m currently learning everything 🤣 but mostly machine learning
 - 👯 I’m looking to collaborate with other devs
 - 🥅 2022-2023 Goals: Build, Build and Build!
-- ⚡ Fun fact: I love anime
+- ⚡ Fun fact: I love anime, gaming (minecraft)
 
 ### Connect with me:
 
