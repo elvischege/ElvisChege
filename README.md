@@ -5,7 +5,7 @@
 ## I'm an Full-Stack Dev and aspiring Data Scientist
 
 
-- 🌱 I’m currently learning everything 🤣 but mostly machine learning
+- 🌱 I’m currently Data Science
 - 👯 I’m looking to collaborate with other devs
 - 🥅 2022-2023 Goals: Build, Build and Build!
 - ⚡ Fun fact: I love anime, gaming (minecraft)
