@@ -3,11 +3,11 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/elvisnchege?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Felvischege&screen_name=elvisnchege)
 ![](https://komarev.com/ghpvc/?username=elvischege)
 
-## I'm an 18 y/o Full-Stack Dev and aspiring Data Scientist
+## I'm an 18 y/o Aspiring Machine Learning Engineer
 
 
-- 🌱 I’m currently Data Science
-- 👯 I’m looking to collaborate with other devs
+- 🌱 I’m currently Machine Learning Learning
+- 👯 I’m code everything
 - 🥅 2022-2023 Goals: Build, Build and Build!
 - ⚡ Fun fact: I love anime, playing minecraft
 
