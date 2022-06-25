@@ -7,7 +7,7 @@
 
 
 - 🌱 I’m currently Machine Learning Learning
-- 👯 I’m code everything
+- 👯 I code everything
 - 🥅 2022-2023 Goals: Build, Build and Build!
 - ⚡ Fun fact: I love anime, playing minecraft
 
